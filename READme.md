@@ -11,7 +11,7 @@ This is the backend service for a Book Store application, built using the MERN (
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/yourusername/book-store-mern-backend.git
 ```
