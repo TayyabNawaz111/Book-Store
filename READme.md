@@ -12,11 +12,10 @@ This is the backend service for a Book Store application, built using the MERN (
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
 git clone https://github.com/yourusername/book-store-mern-backend.git
-   ```
-   Navigate to the project directory:
-
+```
+Navigate to the project directory:
 ```bash
 cd book-store-mern-backend
 ```
