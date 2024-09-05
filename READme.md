@@ -103,7 +103,9 @@ Error Handling
 The application uses standard HTTP status codes for error handling:
 
 400 Bad Request: Missing required fields in the request body.
+
 500 Internal Server Error: A server error occurred, check the console for more details.
+
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any changes you'd like to make.
 
